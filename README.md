@@ -31,4 +31,4 @@ Input your name into the cli to get a personalised message.
 
 ### 💭Future Improvements
 
-- Make is do more sophisticated things/integrate into another application to automate things
+- Make it do more sophisticated things/integrate into another application to automate things
