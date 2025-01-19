@@ -7,6 +7,7 @@ Input your name into the cli to get a personalised message.
 - User can run the program in the cli
 - User can interact with it by inputting their name
 - User can see a message after they input their name
+- User can select an item from the menu; see todo list, random jokes or inspirational quotes
 
 ### 👩‍💻Technical Details
 
