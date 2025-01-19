@@ -26,7 +26,7 @@ Input your name into the cli to get a personalised message.
 ```
 
 ```bash
-go run main.go
+  go run main.go
 ```
 
 ### 💭Future Improvements
